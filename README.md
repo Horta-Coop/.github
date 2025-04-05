@@ -1,1 +1,1 @@
-# .github
+# Horta Coop
